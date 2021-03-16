@@ -1,6 +1,6 @@
 /*
 BST HEADER FILE 
-@author : jellybee @https://github.com/JellyAB
+@author : https://github.com/jelique
 */
 
 //PREREQUISITES FOR INCLUDING HEADER
